@@ -12,6 +12,10 @@ An explanation of some of the terminology used in the data can be found here:<br
 To view the full PowerBI dashboard and explore the data, you can download the file here:<br />
 --insert file link here--<br />
 
+Here is a quick preview of the dashboard:<br />
+![](https://github.com/JakeI158/Denver_RealEstate_Analysis/blob/main/Denver_Property_Sales_Dashboard_Preview.PNG)<!-- -->
+<br />
+
 Tableau Public portfolio:<br />
 https://public.tableau.com/profile/jake.isaacs
 
